@@ -1,0 +1,94 @@
+#div1{
+    padding-top: 45%;
+    width: 80%;
+    margin: auto;
+    margin-top: 80px;
+    position: relative;
+    margin-bottom: 80px;
+}
+.swal2-icon.swal2-success [class^=swal2-success-line]{
+    background-color: red!important;
+}
+.swal2-icon.swal2-success .swal2-success-ring{
+    border: .25em solid rgb(255 0 0)!important;
+}
+.oneimage{
+    max-width:300px;
+    border-radius: 10px;
+}
+#title{
+    padding-left: 30px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: white;
+}
+#downloads{
+    padding: 30px 0px 30px 30px;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.share{
+    padding: 30px 0px 30px 30px;
+}
+.embed{
+    width:400px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.embed >h3{
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+.embed > div {
+    display: flex;
+    justify-content: space-between;
+}
+.embed >div > h4{
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+}
+@media screen and (min-width:0px) and (max-width:1000px) {
+    #div1{
+        width: 100%;
+        margin-top: 60px;
+        padding-top: 56.108%; 
+        position: relative;
+    }
+}
+@media screen and (min-width:0px) and (max-width:550px) {
+    #downloads{
+        display:contents;
+    }
+    .share{
+        padding: 30px 0px 30px 0px;
+    }
+    #title{
+        padding-left: 0px;
+        font-size: 20px;
+        padding-bottom: 20px;
+    }
+    #downloads>a>button{
+        margin: 10px 10px 0px 0px;
+    }
+    .embed{
+        margin-left: 0px;
+    }
+    .oneimage{
+        max-width:200px;
+    }
+}
+@media screen and (min-width:0px) and (max-width:399px) {
+    .embed{
+        width:100%;
+        margin-top:20px;
+        background-color: rgba(255, 255, 255, 0.082);
+        color: white;
+    }
+    .embed >div > h4{
+        font-weight: bolder;
+        color: rgb(255, 255, 255);
+      }
+}
