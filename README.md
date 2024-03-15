@@ -2,8 +2,6 @@
 
 
 #  Free NetFlix Watch All Movies Webseries For Free
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenderji1137&label=Profile%20views&color=0e75b6&style=flat" alt="jitenderji1137" /> </p>
-Copy Free Netflix Url and open in Chrome other Browsers are not Supported 
 
 ## Copy Free-Netflix URL
 Main WebSite
@@ -64,9 +62,6 @@ https://user-images.githubusercontent.com/113350806/236665488-6544b4a1-80ff-41c1
 </div>
 
 
-# [Follow US][Follow US]
-
-## [Watch this repo on Google][GoogleURL]
 
 ## Browser support
 [GoogleURL]:https://www.google.com/search?q=jitenderji1137%2FFree-Netflix+on+github&oq=jitenderji1137%2FFree-Netflix+on+github
